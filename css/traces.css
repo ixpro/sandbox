@@ -368,6 +368,11 @@ section h3.section-subheading {
     color: #333;
 }
 
+#contact h3.section-subheading {
+color: white;
+}
+
+
 @media(min-width:768px) {
     section {
         padding: 150px 0;
@@ -715,6 +720,7 @@ display: block;
 
 #mc-form .btn {
 border-radius: 0px;
+font-family: sans-serif;
 }
 
 form#mc-form {
