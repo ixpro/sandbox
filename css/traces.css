@@ -713,12 +713,17 @@ padding-top: 10px;
 display: block;
 }
 
+#mc-form .btn {
+border-radius: 0px;
+}
+
 form#mc-form {
 min-height: 95px;
 }
 
 section#contact .form-group input.form-control {
     height: auto;
+    border-radius: 0px;
 }
 
 section#contact .form-group textarea.form-control {
