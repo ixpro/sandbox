@@ -365,7 +365,7 @@ section h3.section-subheading {
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
-    color: white;
+    color: #333;
 }
 
 @media(min-width:768px) {
