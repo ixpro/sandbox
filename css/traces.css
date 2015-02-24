@@ -375,7 +375,7 @@ color: white;
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 75px 0;
     }
 }
 
@@ -685,9 +685,10 @@ aside.clients img {
     margin: 50px auto;
 }
 
+
 section#contact {
 background-color: #222;
-background-image: url(../img/video_bg_shaded.jpg);
+background-image: url(../img/bg.jpg);
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -842,7 +843,8 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content p {
-    margin-bottom: 30px;
+margin-bottom: 30px;
+text-align: left;
 }
 
 .portfolio-modal .modal-content p.item-intro {
@@ -850,6 +852,7 @@ ul.social-buttons li a:active {
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
+    text-align: center;
 }
 
 .portfolio-modal .modal-content ul.list-inline {
