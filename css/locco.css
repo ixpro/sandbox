@@ -225,7 +225,8 @@ padding: 0px 15px;
 
 .navbar-brand>img {
 	display: inline;
-	width: 50px;
+	width: 100px;
+    margin-top: 7px;
 }
 
 @media(min-width:768px) {
